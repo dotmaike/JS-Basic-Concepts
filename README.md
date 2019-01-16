@@ -11,3 +11,12 @@ These are some basic concepts in Javascript that we sometimes take for granted.
 **Heap** : All the memory allocation to variables and objects happens here.
 
 There is a limit on the size of the stack which is 16,000 frames (Chrome browser).
+
+## 2. Primitive Types
+
+-   Booleans
+-   Strings
+-   Numbers
+-   `null`
+-   `undefined`  (`void`  in Flow types)
+-   Symbols (new in ECMAScript 2015, not yet supported in Flow)
